@@ -8,5 +8,3 @@ It is a system designed around an Intel 8086 processor and various other supplem
 The code of the system has been written in asssembler EMU8086 format and assembled into .bin files using the same.
 
 Datasheets of the various devices and components used in the system are located in the "Manuals" directory.
-
-This project has been a group effort and due credits have been provided in the design report in the repository.
